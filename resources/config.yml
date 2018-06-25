@@ -1,0 +1,14 @@
+Drugs:
+  DrugOne:
+    Name: "&cDrug 1"
+    Item: DIRT
+    Potions:
+      - NIGHT_VISION;10;1
+      - BLINDNESS;10;1
+
+Messages:
+  Used-Drug: "&a&lDrugZ >> &cYou've used drug &6%drug%&c!"
+  Drug-Received: "&a&lDrugZ >> &cYou received drug &6%drug%&c!"
+  Only-By-Players: "&cYou can execute this command only being player!"
+  Type-Drug-Name: "&a&lDrugZ >> &cPlease type drug name!"
+  Drug-Not-Found: "&a&lDrugZ >> &cDrug not found!"
